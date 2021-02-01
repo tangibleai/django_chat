@@ -105,3 +105,6 @@ venv.bak/
 
 # migrations folder
 chat/migrations
+
+# secrets
+secrets.sh
